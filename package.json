@@ -1,0 +1,11 @@
+{
+  "name": "nodeejs",
+  "version": "1.0.0",
+  "description": "Discover-Rocketseat para aprender nodejs + EJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suenny Souza",
+  "license": "ISC"
+}
