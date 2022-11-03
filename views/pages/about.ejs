@@ -1,13 +1,13 @@
 <!DOCTYPE html>
-    <%- include('head') %>
+    <%- include('../components/head') %>
     <body class="container">
-        <%- include('header') %>
+        <%- include('../components/header', {pagina: 'Sobre'}) %>
         <main>
             <div class="jumbotron">
                 <h1>Sobre mim</h1>
                 <p>Olá, me chamo Suenny e estou aprendendo ejs com express!</p>
             </div>
         </main>
-        <%- include('footer') %>
+        <%- include('../components/footer') %>
     </body>
 </html>
